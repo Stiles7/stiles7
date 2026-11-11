@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou o Maylon Reis 👋
 
-<!--
-**Stiles7/stiles7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia de Software e desenvolvedor em constante aprendizado.
 
-Here are some ideas to get you started:
+Atualmente, estou desenvolvendo minhas habilidades em programação, buscando transformar conhecimentos em projetos práticos e soluções reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e ferramentas
+- ☕ Java
+- 🗄️ MySQL e PostgreSQL
+- 🔧 Git e GitHub
+
+### 📚 Atualmente estudando
+- Programação orientada a objetos (POO)
+- Estrutura de dados e algoritmos
+- Desenvolvimento Back-end
+- Banco de dados
+- Desenvolvimento de aplicações web
+
+### 🎯 Objetivo
+Evoluir constantemente como desenvolvedor, construir projetos cada vez mais completos, transformar ideias em soluções através da tecnologia e estou em busca da primeira oportunidade.
+
+*"A melhor maneira de aprender a programar é construindo, errando e evoluindo a cada projeto."*
