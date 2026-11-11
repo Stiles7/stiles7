@@ -6,6 +6,7 @@ Atualmente, estou desenvolvendo minhas habilidades em programação, buscando tr
 
 ### 🚀 Tecnologias e ferramentas
 - ☕ Java
+- 🌐 HTML, CSS e JavaScript
 - 🗄️ MySQL e PostgreSQL
 - 🔧 Git e GitHub
 
